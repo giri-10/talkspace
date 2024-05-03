@@ -1,4 +1,4 @@
-package com.java.chatapp.config;
+package com.java.talkspace.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;
